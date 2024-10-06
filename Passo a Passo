@@ -1,0 +1,9 @@
+1 - Instalação do Projeto
+ Para instalar o cypress use o comando  -> npm install cypress --save-dev
+
+2 - Abrir e configurar 
+
+ Abra o cypress com comando npx cypress open e enseguida selecione a opção E2E Testing, selecione o navegador e 
+
+3 - Criando o primeiro exemplo de Testes
+ Apos configura
